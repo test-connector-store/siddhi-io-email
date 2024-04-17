@@ -1,0 +1,19 @@
+{
+    "name": "email",
+    "owner": "WSO2",
+    "category": "Siddhi IO",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-io-email/",
+    "description": "The siddhi-io-email extension is an extension to Siddhi that receives and publishes events via email. Using the extension, events can be published through smtp mail server and received through 'pop3' or 'imap' mail serves.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-io",
+        "email"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
